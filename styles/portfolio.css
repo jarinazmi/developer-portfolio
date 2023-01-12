@@ -198,27 +198,27 @@ main {
 
 .resume-title {
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
     color: #474747;
 }
 
 #resume .resume-item {
     border-bottom: 1px solid #D1D1D1;
-    margin-top: 35px;
+    margin-top: 33px;
 }
 
 #resume .title {
     color: #474747;
     font-weight: 700;
-    font-size: 25px;
-    margin-bottom: 14px;
+    font-size: 22px;
+    margin-bottom: 7px;
 }
 
 #resume .sub-title {
     color: #757575;
     font-weight: 600;
-    font-size: 20px;
-    margin-bottom: 10px;
+    font-size: 19px;
+    margin-bottom: 18px;
 }
 
 #resume .description {
